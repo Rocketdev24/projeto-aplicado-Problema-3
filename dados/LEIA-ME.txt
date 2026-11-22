@@ -1,0 +1,15 @@
+Problema 3 - Quando chove, por onde se chega à UBS?
+Material para os grupos (Vila Nova Esperança, bairro fictício)
+
+
+pequeno.txt e pequeno_esperado.txt
+    O croqui escrito como arquivo de operações, com um dia seco e uma chuva,
+    e as respostas esperadas. Nas linhas de ROTA, a resposta mostrada é um
+    caminho possível: qualquer caminho de menor tempo é aceito.
+
+pequeno_criticos.txt e pequeno_criticos_esperado.txt
+    Só para quem fizer a pontuação extra (CRITICOS).
+
+cargas/
+    Arquivos de carga com cerca de 1.000, 5.000, 20.000 e 50.000 pontos,
+    sem respostas. São os arquivos das medições do relatório.
